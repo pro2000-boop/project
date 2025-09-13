@@ -1,0 +1,26 @@
+خطوات سريعة لرفع المشروع بدون Git:
+
+1. اذهب إلى: https://github.com/pro2000-boop
+2. اضغط "New repository" 
+3. اسم المستودع: project
+4. اجعله Public ✓
+5. اضغط "Create repository"
+
+6. في الصفحة الجديدة، اضغط "uploading an existing file"
+7. اسحب جميع الملفات من مجلد: c:\Users\77182\Desktop\trip-management-app-main
+8. اكتب رسالة: "رفع مشروع أسطول المملكة"
+9. اضغط "Commit changes"
+
+10. اذهب إلى Settings > Pages
+11. اختر Source: "Deploy from a branch"
+12. اختر Branch: "main" و Folder: "/ (root)"
+13. اضغط Save
+
+14. انتظر 5-10 دقائق ثم اذهب إلى:
+https://pro2000-boop.github.io/project
+
+ملاحظة: المشروع جاهز بالكامل مع:
+- نظام الترجمة العربي/الإنجليزي
+- نظام الحجز والتتبع
+- لوحة الإدارة
+- الإشعارات المتقدمة
