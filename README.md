@@ -202,9 +202,7 @@ Notes:
 
 ## Deployment
 
-التطبيق منشور على Netlify ويمكن الوصول إليه عبر:
-[https://fleet-ksa.netlify.app/](https://fleet-ksa.netlify.app/)
-
+التطبيق منشور على Netlify ويمكن الوصول إليه عبر
 ## Security
 ## 🔐 Security
 
@@ -222,8 +220,3 @@ The dashboard is fully responsive and optimized for:
 - 📱 Tablets
 - 📱 Mobile devices
 
----
-
-Created with ❤️ by Manjunath R
-
-For support or inquiries, please contact us through our [support portal](https://voyagerpro.netlify.app/support).
